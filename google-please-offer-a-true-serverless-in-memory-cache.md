@@ -87,7 +87,7 @@ If you do this, I can forgive that you don't offer an **in-built Google authenti
 
 I can forget that you ever had a GAE SDK with a nice GUI tool (**GAE Launcher**).
 
-![](https://storage.googleapis.com/gaedevs1.appspot.com/gae-launcher.png)
+![](https://storage.googleapis.com/smartninja/gae-launcher-1634822733.png)
 
 And I can forgive that you require me to install Python 2 and Java JDK even if the only thing I want to do is to run my Python 3 GAE app locally (Cloud SDK requires Python 2 and Firestore/Datastore Emulator requires Java JDK).
 
