@@ -100,7 +100,7 @@ Let's say we want to build a simple guestbook which has the following elements:
 
 The web app should look something like this:
 
-![](https://storage.googleapis.com/gaedevs1.appspot.com/preview.png)
+![](https://storage.googleapis.com/smartninja/preview-1634822801.png)
 
 Here's the HTML code for this:
 
